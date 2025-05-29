@@ -1,0 +1,22 @@
+{
+  "name": "test-assignment-for-qa",
+  "version": "1.0.0",
+  "description": "Test assignment for QA",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ladniy/test-assignment-for-qa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ladniy/test-assignment-for-qa/issues"
+  },
+  "homepage": "https://github.com/Ladniy/test-assignment-for-qa#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.24"
+  }
+}
